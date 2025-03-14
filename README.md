@@ -50,5 +50,5 @@ python scraper.py
 This project is licensed under the MIT License.
 
 ## 🔗 Connect
-[GitHub](https://github.com/githubber197) | [LinkedIn]([(https://www.linkedin.com/in/rajeev-dandamudi-740952290))
+[GitHub](https://github.com/githubber197) | [LinkedIn]([(https://www.linkedin.com/in/rajeev-dandamudi))
 
